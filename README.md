@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+
+https://user-images.githubusercontent.com/79730539/216787141-4de63d31-8713-4d6f-bcf8-485606bbc65b.mp4
+
+
 ## Technologies
 
 - [Flutter](https://flutter.dev/)
