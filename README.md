@@ -8,6 +8,7 @@ A new Flutter project.
 - [Dart](https://dart.dev/)
 - [flutter_lints](https://pub.dev/packages/flutter_lints)
 - [flutter_slidable](https://pub.dev/packages/flutter_slidable)
+- [flutter_shared_preferences](https://pub.dev/packages/shared_preferences)
 
 ## How To Use
 
